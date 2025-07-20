@@ -9,7 +9,7 @@
     "description":"List of VCC packages we manage at VRC Kmart.",
     "infoLink":{
         "url":"https://github.com/VRC-Kmart/",
-        "text":"Check out our repos"
+        "text":"Check out our repos!"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
