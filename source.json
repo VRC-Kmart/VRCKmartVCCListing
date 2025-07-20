@@ -1,20 +1,20 @@
 {
-    "name":"VRC Kmart VCC Listing",
-    "id":"VRCKmart.VCC-listing",
+    "name":"Example Listing",
+    "id":"com.vrchat.example-listing",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
-        "email":"publicrelation@vrckmart.com",
-        "name":"VRC Kmart",
-        "url":"https://vrckmart.com"
+        "email":"developer@vrchat.com",
+        "name":"VRChat",
+        "url":"https://hello.vrchat.com"
     },
-    "description":"List of VCC packages we manage at VRC Kmart.",
+    "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"https://github.com/VRC-Kmart/VRCKmartVCCListing",
+        "url":"http://github.com/vrchat-community/template-package-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "VRC-Kmart/EasyPlatformSwitch"
+        "vrchat-community/clientsim"
     ],
     "packages":[
         {
