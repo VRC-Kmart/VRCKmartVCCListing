@@ -3,9 +3,8 @@
     "id":"com.vrchat.example-listing",
     "url":"https://github.com/VRC-Kmart/VRCKmartVCCListing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"VRC Kmart",
+        "url":"https://vrckmart.com"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
@@ -14,7 +13,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "VRC-Kmart/EasyPlatformSwitch"
+        "source:VRC-Kmart/EasyPlatformSwitch"
     ],
     "packages":[
     ]
