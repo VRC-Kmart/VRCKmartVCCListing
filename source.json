@@ -18,7 +18,7 @@
 		{
             "name":"vrckmart.easyplatformswitch",
             "releases":[
-                "https://github.com/VRC-Kmart/EasyPlatformSwitch/archive/refs/tags/1.00.0.zip"
+                "https://github.com/VRC-Kmart/EasyPlatformSwitch/releases/download/1.00.0/vrckmart.easyplatformswitch.zip"
             ]
         }
     ]
