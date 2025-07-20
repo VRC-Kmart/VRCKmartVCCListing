@@ -1,12 +1,12 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"VRC Kmart VCC Listing",
+    "id":"VRCKmart.VCC-listing",
     "url":"https://github.com/VRC-Kmart/VRCKmartVCCListing/index.json",
     "author":{
         "name":"VRC Kmart",
         "url":"https://vrckmart.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"List of VCC packages we manage at VRC Kmart.",
     "infoLink":{
         "url":"https://github.com/VRC-Kmart/VRCKmartVCCListing",
         "text":"View on GitHub"
@@ -16,10 +16,9 @@
     ],
     "packages":[
 		{
-            "name":"com.vrchat.udonsharp",
+            "name":"vrckmart.easyplatformswitch",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/VRC-Kmart/EasyPlatformSwitch/archive/refs/tags/1.00.0.zip"
             ]
         }
     ]
